@@ -1,0 +1,31 @@
+[33mcommit 4b2f6a37ab21edf44fbe47592283049ee6a19af9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 359d584 7ddcc81
+Author: Duc <ntanduc94@gmail.com>
+Date:   Fri Apr 2 18:03:02 2021 +0700
+
+    Merge branch 'main' of https://github.com/lythagiang83/Rokida-Demo
+
+[33mcommit 359d584f5063cea79f5288a7638b6f35e7566143[m
+Author: Duc <ntanduc94@gmail.com>
+Date:   Fri Apr 2 18:02:48 2021 +0700
+
+    duc
+
+[33mcommit 7ddcc81b8fdaaada171bff5a2b559dd0134adc14[m
+Merge: 5cb3d47 9c7ecc8
+Author: lythagiang83 <lythagiang@gmail.com>
+Date:   Fri Apr 2 16:04:27 2021 +0700
+
+    Merge branch 'main' of https://github.com/lythagiang83/Rokida-Demo into main
+
+[33mcommit 5cb3d47473842a47fd71e672043f97e96ed656f6[m
+Author: lythagiang83 <lythagiang@gmail.com>
+Date:   Fri Apr 2 16:03:44 2021 +0700
+
+    GoogleLogin
+
+[33mcommit 9c7ecc8b80c9d1b3d812269787ec092d92e631d0[m
+Author: Duc <ntanduc94@gmail.com>
+Date:   Thu Apr 1 17:14:51 2021 +0700
+
+    duc
